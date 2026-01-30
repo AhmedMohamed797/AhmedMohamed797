@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-mohamed-89ba8539a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-26A5E4?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedm0hamed7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-26A5E4?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ahmed_Mo17" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
